@@ -1,2 +1,2 @@
 # blog
-This is my first Django exercise
+This is my first Django exercise—— a blog 
